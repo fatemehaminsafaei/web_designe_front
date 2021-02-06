@@ -1,0 +1,11 @@
+@font-face {
+    font-family: OpenSans;
+    font-style: normal;
+    font-weight: 900;
+    src: url("../fonts/open-sans/open-sans-v17-latin-regular.woff");
+}
+
+@font-face {
+    font-family: OpenSansBold;
+    src: url("../fonts/open-sans/OpenSans-Regular.woff");
+}
